@@ -1,25 +1,26 @@
-h1{color: rgb(155, 23, 23);}
+h1{color: rgb(200, 90, 80);}
 body{
-    background: bisque;
+    background-image: linear-gradient(360deg,#00537E 10%,#3AA17E 360%);
 }
 .main-wrapper{
-    width: 80%;
+    width: 100%;
     margin: auto;
 }
 .page-title{
     text-align: center;
+    font-family: sans-serif;
 }
 /* Flex box */
 .caption-section{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-around;font-family: Helvetica;
 }
 a{
     text-decoration: none;
-    color:coral
+    color:lightblue
 }
 a:hover{
-    color:crimson
+    color:rgb(24, 19, 20)
 }
 li{
     padding: 5px;
@@ -48,15 +49,10 @@ li{
     align-items: flex-start;
 }
 .row .text p{
-margin: 0;
+width: 95%;
+margin: auto;
+text-align: left;
 }
 
 section{
 padding: 10px 0;
-}
-section.k{
-    background-color: green;
-    /* padding: 50px;
-     */
-     padding: 50px;
-}
