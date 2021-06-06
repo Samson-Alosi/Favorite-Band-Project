@@ -1,1 +1,62 @@
 h1{color: rgb(155, 23, 23);}
+body{
+    background: bisque;
+}
+.main-wrapper{
+    width: 80%;
+    margin: auto;
+}
+.page-title{
+    text-align: center;
+}
+/* Flex box */
+.caption-section{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color:coral
+}
+a:hover{
+    color:crimson
+}
+li{
+    padding: 5px;
+}
+.image-with-caption p{
+    margin: 0;
+    font-style: italic;
+    font-size: smaller;
+    font-weight: 300;
+
+}
+.image-with-caption .img-wrapper{
+
+    width: 200px;
+    height: auto;
+    padding-right: 10px;
+}
+.image-with-caption .img-wrapper img{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+.row{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.row .text p{
+margin: 0;
+}
+
+section{
+padding: 10px 0;
+}
+section.k{
+    background-color: green;
+    /* padding: 50px;
+     */
+     padding: 50px;
+}
