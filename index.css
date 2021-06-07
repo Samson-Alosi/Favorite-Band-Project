@@ -17,7 +17,7 @@ body{
 }
 a{
     text-decoration: none;
-    color:rgb(24, 29, 31)
+    color:rgb(134, 203, 230)
 }
 a:hover{
     color:rgb(99, 71, 76)
@@ -55,4 +55,17 @@ text-align: left;
 }
 
 section{
-padding: 10px 0;
+padding: 10px 0;}
+h1{
+    color: goldenrod;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+h2{
+    text-decoration-color: indigo;
+    color: rgb(7, 50, 65);
+}
+h3{
+    align-items: flex-start;
+    color: rgb(43, 39, 39);
+}
