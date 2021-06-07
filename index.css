@@ -1,6 +1,6 @@
 h1{color: rgb(3, 11, 19);}
 body{
-    background: rgba(150, 153, 165, 0.138);
+    background: rgba(128, 134, 157, 0.138);
 }
 .main-wrapper{
     width: 80%;
@@ -60,3 +60,13 @@ section.k{
      */
      padding: 50px;
 }
+h1{
+    color: rgb(3, 17, 17);
+    font-weight: bolder;
+}
+h2{
+    color: darkmagenta;
+}
+h3{
+    color: darkslategrey;
+    font-family: sans-serif;
