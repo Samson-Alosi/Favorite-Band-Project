@@ -9,5 +9,6 @@ This project purely applied HTML and CSS. The websiite structure was written in 
 ## Support and contact details
 {https://www.facebook.com/psalm.chrisam/
 www.linkedin.com/in/samson-alosi
+## link to my Github page is: https://github.com/Samson-Alosi/Favorite-Band-Project/tree/gh-pages
 ### License
 Copyright (c)2021 Samson Alosi
