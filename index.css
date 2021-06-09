@@ -17,13 +17,13 @@ body{
 }
 a{
     text-decoration: none;
-    color:rgb(76, 161, 194)
+    color:rgb(155, 15, 64)
 }
 a:hover{
     color:rgb(130, 38, 55)
 }
 li{
-    padding: 5px;
+    padding: 6px;
 }
 .image-with-caption p{
     margin: 1em;
@@ -60,11 +60,11 @@ h1{
     color: rgb(237, 206, 127);
     font-weight: bolder;
     font-size: xx-large;
-    background-color: bisque;
+    background-color: rgb(12, 7, 1);
 }
 h2{
     text-decoration-color: indigo;
-    color: rgb(7, 50, 65);
+    color: rgb(30, 53, 61);
 }
 h3{
     align-items: flex-start;
