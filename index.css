@@ -3,7 +3,7 @@ body{
     background-image: linear-gradient(360deg,#767b7e 10%,#3AA17E 360%);
 }
 .main-wrapper{
-    width: 100%;
+    width: 90%;
     margin: auto;
 }
 .page-title{
