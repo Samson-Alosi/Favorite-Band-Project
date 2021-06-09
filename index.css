@@ -14,6 +14,7 @@ body{
 .caption-section{
     display: flex;
     justify-content: space-around;font-family: Helvetica;
+    background-color: rgb(226, 156, 131);
 }
 a{
     text-decoration: none;
